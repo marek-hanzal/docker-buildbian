@@ -6,4 +6,5 @@ RUN \
         autoconf file make g++ gcc libc-dev pkg-config bison \
         # some "random" dev libs (ok... taken from PHP's dependencies, sorry)
         libxml2-dev libssl-dev libsqlite3-dev zlib1g-dev libbz2-dev libcurl4-openssl-dev libonig-dev \
-        libpq-dev libreadline-dev libzip-dev libgmp-dev libldap2-dev libpng-dev
+        libpq-dev libreadline-dev libzip-dev libgmp-dev libldap2-dev libpng-dev libwebp-dev libjpeg-dev libxpm-dev \
+        libc-client-dev libkrb5-dev libsasl2-dev libsodium-dev libargon2-dev libxslt-dev
